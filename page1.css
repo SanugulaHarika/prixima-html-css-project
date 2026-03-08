@@ -66,7 +66,7 @@
     font-size: 30px;
 }
 .bg2{
-    background-image: url('images/img1.jpg');
+    background-image: url('img1.jpg');
     background-size: cover;
     height: 600px;
     background-position:center;
@@ -138,7 +138,7 @@
     padding-top: 20%;
 }
 .bg3{
-    background:linear-gradient(rgba(249, 77, 3, 0.866)),url('images/img1.jpg');
+    background:linear-gradient(rgba(249, 77, 3, 0.866)),url('img1.jpg');
     height: 50px;
     background-position: center;
     background-size: cover;
@@ -263,7 +263,7 @@
     border-radius: 50%;
 }
 .bg4{
-    background: linear-gradient(rgba(76, 89, 236, 0.427)),url('images/img5.jpg');
+    background: linear-gradient(rgba(76, 89, 236, 0.427)),url('img5.jpg');
 }
 .head12 h1{
     font-size: 20px;
@@ -317,7 +317,7 @@
     color: #fff;
 }
 .bg5{
-    background:linear-gradient(rgba(110, 110, 179, 0.848)),url('images/img4.jpg');
+    background:linear-gradient(rgba(110, 110, 179, 0.848)),url('img4.jpg');
     padding-top: 50px;
     padding-bottom: 30px;
 }
@@ -511,4 +511,5 @@
     .bgg1 .container{
         flex-direction: column;
     }
+
 }
