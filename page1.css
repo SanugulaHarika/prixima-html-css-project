@@ -50,7 +50,7 @@
     color: #fff;
     background-color: rgb(195, 58, 9);
     border:0;
-    padding:3px 5px;
+    padding:5px 10px;
 }
 .four a{
     text-decoration: none;
@@ -521,6 +521,7 @@
         tex-align:center;
     }
 }
+
 
 
 
