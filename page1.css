@@ -50,7 +50,7 @@
     color: #fff;
     background-color: rgb(195, 58, 9);
     border:0;
-    padding:3px 4px;
+    padding:8px 15px;
 }
 .four a{
     text-decoration: none;
@@ -73,7 +73,7 @@
     padding-top: 150px;
 }
 .five button{
-    padding: 1% 2%;
+    padding:8px 15px;
     font-size: 15px;
     color: #fff;
     background-color:rgb(185, 67, 24);
@@ -515,11 +515,12 @@
         font-size:12px;
     }
     .head9 img{
-        padding-right:20px;
+        padding-right:40px;
     }
     .head14{
         tex-align:center;
     }
 }
+
 
 
